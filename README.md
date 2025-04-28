@@ -114,8 +114,6 @@ Your API is available at `http://<VM-IP>:5000`, and the React app at `http://<VM
 ![virtuaaalikone](https://github.com/user-attachments/assets/8a89632b-6adc-474a-8246-eaff3a443801)
 
 
-## License
 
-MIT
 
 
